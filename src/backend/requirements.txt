@@ -3,7 +3,7 @@ uvicorn[standard]==0.34.3
 supabase==2.15.3
 httpx==0.28.1
 python-jose[cryptography]==3.5.0
-cryptography==42.0.5
+cryptography==46.0.7
 email-validator==2.1.0
 exponent-server-sdk>=2.1.0
 stripe==10.8.0
