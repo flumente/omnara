@@ -20,7 +20,7 @@
     "@supabase/supabase-js": "^2.50.3",
     "@tanstack/react-query": "^5.81.5",
     "date-fns": "^4.1.0",
-    "expo": "^54.0.10",
+    "expo": "^57.0.4",
     "expo-apple-authentication": "~8.0.7",
     "expo-application": "~7.0.7",
     "expo-auth-session": "~7.0.8",
